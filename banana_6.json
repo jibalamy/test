@@ -1,5 +1,5 @@
 {
-	"file": "http://lesfleursdunormal.fr/static/_downloads/banana_6.csv",
+	"file": "https://raw.githubusercontent.com/jibalamy/test/master/banana_6.csv",
 	"name": "banana_6",
 	"header": 0,
 	"separator": ";",
